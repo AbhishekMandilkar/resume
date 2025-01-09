@@ -1,8 +1,6 @@
 import {
   ClevertechLogo,
   ConsultlyLogo,
-  JojoMobileLogo,
-  MonitoLogo,
   NSNLogo,
   ParabolLogo,
 } from "@/images/logos";
